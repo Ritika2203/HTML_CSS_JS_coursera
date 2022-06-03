@@ -45,26 +45,19 @@ Here is what you will need to complete the assignment:
 
 15. (OPTIONAL) _You will NOT be graded on this_, but you may want to explicitly set a font-family for the text in your page, so you are not stuck with the default browser font family. Also, set the font size of the heading and section title to be 75% larger and 25% larger (respectively) than the font size of the dummy text.
 
-Here is the mockup illustration of the desktop version of the site. Your final result should look very close to this mockup.
-
- ![desktop](images/desktop.png)
-
-Here is the mockup illustration of the tablet version of the site. Your final result should look very close to this mockup. Note that in this view, the 3rd section takes up the entire row.
-
- ![tablet](images/tablet.png)
-
-Here is the mockup illustration of the mobile version of the site. Your final result should look very close to this mockup.
-
- ![mobile](images/mobile.png)
- 
  
  # Screenshots of my site
  
-**DESKTOP VERSION**
+# DESKTOP VERSION
+
 <img width="1438" alt="mod2_desktop" src="https://user-images.githubusercontent.com/87000318/171837537-74b35761-4f14-411e-9a3b-f9671ad7e58f.png">
 
- **TABLET VERSION**
+
+ # TABLET VERSION
+ 
 <img width="988" alt="mod2_tablet" src="https://user-images.githubusercontent.com/87000318/171837757-bbf57814-d694-43b2-ab0e-43e72924f3a6.png">
 
-**MOBILE VERSION**
+
+# MOBILE VERSION
+
 <img width="584" alt="mod2_mobile" src="https://user-images.githubusercontent.com/87000318/171837933-43734e3d-ce3d-49bb-baf2-36f981c50ae7.png">
